@@ -1,0 +1,19 @@
+[
+    {
+        "title" : "HTML",
+        "content" : "HTML은 웹을 이루는 가장 기초적인 구성요소"
+    },
+    {
+        "title" : "CSS",
+        "content" : "CSS는 스타일 시트"
+    },
+    {
+        "title" : "React",
+        "content" : "자바스크립트 라이브러리"
+    },
+    {
+        "title" : "Javascript",
+        "content" : "바닐라 자바스크립트"
+    }
+    
+]
