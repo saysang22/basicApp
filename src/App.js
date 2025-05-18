@@ -1,5 +1,6 @@
 // import MyDiv1 from './03/MyDiv1';
-import MyList from './04/MyList';
+// import MyList from './04/MyList';
+import Lotto from './05/Lotto';
 import './App.css';
 import { FaHome } from "react-icons/fa";
 
@@ -12,7 +13,8 @@ function App() {
       </header>
       <main className='grow w-full flex justify-center items-center overflow-auto'>
         {/* <MyDiv1/> */}
-        <MyList/>
+        {/* <MyList/> */}
+        <Lotto/>
       </main>
       <footer className='flex justify-center items-center h-20 bg-black text-slate-100'>
         @ Kim Min Seo
