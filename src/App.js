@@ -1,8 +1,10 @@
 // import MyDiv1 from './03/MyDiv1';
 // import MyList from './04/MyList';
-import Lotto from './05/Lotto';
+// import Lotto from './05/Lotto';
+import Traffic from './06/Traffic';
 import './App.css';
 import { FaHome } from "react-icons/fa";
+// import MyClock from "./02/MyClock";
 
 function App() {
   return (
@@ -14,7 +16,9 @@ function App() {
       <main className='grow w-full flex justify-center items-center overflow-auto'>
         {/* <MyDiv1/> */}
         {/* <MyList/> */}
-        <Lotto/>
+        {/* <Lotto/> */}
+        {/* <MyClock/> */}
+        <Traffic/>
       </main>
       <footer className='flex justify-center items-center h-20 bg-black text-slate-100'>
         @ Kim Min Seo
